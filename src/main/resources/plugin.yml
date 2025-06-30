@@ -1,5 +1,5 @@
 name: AFKPlusPAPI
-version: ${project.version}
+version: ${version}
 main: net.lapismc.afkpluspapi.AFKPlusPAPI
-api-version: 1.13
+api-version: 1.19
 depend: [AFKPlus,PlaceholderAPI]
